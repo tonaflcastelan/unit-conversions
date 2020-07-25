@@ -1,6 +1,6 @@
 <?php
 
-namespace Spatie\UnitConversions;
+namespace TonaFlCastelan\UnitConversions;
 
 class Weight
 {

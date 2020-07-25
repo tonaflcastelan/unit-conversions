@@ -1,17 +1,16 @@
 {
-    "name": "spatie/unit-conversions",
+    "name": "tonaflcastelan/unit-conversions",
     "description": "Perform unit conversions in PHP",
     "keywords": [
-        "spatie",
+        "tonaflcastelan",
         "unit-conversions"
     ],
-    "homepage": "https://github.com/spatie/unit-conversions",
+    "homepage": "https://github.com/tonaflcastelan/unit-conversions",
     "license": "MIT",
     "authors": [
         {
             "name": "Tonatiuh Flores Castelan",
             "email": "tona.castelan16@gmail.com",
-            "homepage": "https://spatie.be",
             "role": "Developer"
         }
     ],
@@ -25,12 +24,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Spatie\\UnitConversions\\": "src"
+            "TonaFlCastelan\\UnitConversions\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Spatie\\UnitConversions\\Tests\\": "tests"
+            "TonaFlCastelan\\UnitConversions\\Tests\\": "tests"
         }
     },
     "scripts": {
